@@ -1,5 +1,7 @@
 Vegetation Indices for Fire Severity Analysis 🔥🌲
+
 📋 Project Overview
+
 This repository contains Python scripts for computing hyperspectral and multispectral vegetation indices to analyze fire severity. The work is part of a Master's thesis in Forest Management based on Data Science at the University of Valladolid.
 
 Thesis Title
