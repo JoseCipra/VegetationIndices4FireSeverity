@@ -26,3 +26,7 @@ VegetationIndices4FireSeverity/
 ├── Hyperspectral_indices.ipynb     # Jupyter notebook for hyperspectral indices computation
 ├── Multispectral_indices.ipynb     # Jupyter notebook for multispectral indices computation
 ├── README.md                       # This file
+## 📂 Repository Contents
+
+* **[Hyperspectral Analysis](./Hyperdata_indices.ipynb):** Notebook containing algorithms for hyperspectral vegetation indices.
+* **[Multispectral Analysis](./Multidata_indices.ipynb):** Notebook focused on multispectral data processing for fire severity.
