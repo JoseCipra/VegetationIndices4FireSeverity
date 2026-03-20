@@ -5,7 +5,7 @@
 This repository contains Python scripts for computing hyperspectral and multispectral vegetation indices to analyze fire severity. The work is part of a Master's thesis in Forest Management based on Data Science at the University of Valladolid.
 
 ## Thesis Title
-"Fire severity analysis in Sierra de La Culebra wildfire from hyperspectral satellite data"
+"**[Fire severity analysis in Sierra de La Culebra wildfire from hyperspectral satellite data][thesis-pdf]**"
 
 ## Academic Context
 Master's Program: Forest Management based on Data Science
@@ -24,3 +24,5 @@ This research aims to develop and compare vegetation indices from both hyperspec
 
 * **[Hyperspectral Analysis](./Hyperdata_indices.ipynb):** Notebook containing algorithms for hyperspectral vegetation indices.
 * **[Multispectral Analysis](./Multidata_indices.ipynb):** Notebook focused on multispectral data processing for fire severity.
+
+[thesis-pdf]: https://uvadoc.uva.es/bitstream/handle/10324/80969/TFM-L822.pdf?sequence=1&isAllowed=y
